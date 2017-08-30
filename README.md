@@ -10,13 +10,16 @@ The project uses the Python 3.5.4 64 bit language and uses:
 
 
 This project have 5 files:
-- convertUi2py.bat are use to automate generate ui_mining.py from ui_mining.ui
+- convertUi2py.bat are used to automate generate ui_mining.py from ui_mining.ui
 - ui_mining.py are file witch construct pyQt5 gui
 - ui_mining.ui are file generate automate from Qt Design
-- criandoPyComQtDesigner.py contains the logic from Gui 
+- criandoPyComQtDesigner.py contains the logic from Gui
 
 
 
+### Future Developed
+Fell free to fork . The next stage are get personal information from the site and help the user how much he will lose/win in the next trade;
+Try to get 
 
 ### References
 You can have more information at:
