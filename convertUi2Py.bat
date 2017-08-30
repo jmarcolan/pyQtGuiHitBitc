@@ -1,0 +1,1 @@
+pyuic5 -x ui_mining.ui -o ui_mining.py
